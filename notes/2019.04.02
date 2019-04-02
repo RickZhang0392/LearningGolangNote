@@ -1,0 +1,6 @@
+// variable test
+var test = "hello world" 
+type myString string
+var test2 myString = "Sam"
+test2 = test // this line is not correct, will cause error
+
